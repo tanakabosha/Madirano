@@ -1,9 +1,8 @@
 👋 Hi, I am Tanaka Bosha. 
 
-I’m into Android mobile development,
-Windows Desktop development,
-Embedded system development,
-IoT,
-and Renewable energy
+I’m into Android mobile software,
+Windows desktop software,
+Embedded software,
+Modeling and Simulation
 
 Reach me at tanakabosha24@gmail.com
